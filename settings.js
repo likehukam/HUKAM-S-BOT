@@ -36,10 +36,10 @@ global.APIKeys = {
 
 
 //aumto functioner
-global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = true //auto reading in gc (true to on, false to off)
-global.autoRecord = true //auto recording (true to on, false to off)
+global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
@@ -64,8 +64,8 @@ global.location = "7501 E. McCormick Parkway, Scottsdale, Arizona 85258, United 
 global.owner = ['923417709826']
 global.ownertag = '923417709826' //ur tag number
 global.botname = 'HUKAMs BOT' //ur bot name
-global.linkz = "https://youtube.com/channel/UC0QL_B3M2utyyFM_KSIT82Q" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UC0QL_B3M2utyyFM_KSIT82Q" //ur website to be displayed
+global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
