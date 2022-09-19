@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['923417709826'] //ur owner number
-global.ownername = "🦄Forever Living Products" //ur owner name
-global.ytname = "🕊Forever Living Products" //ur yt chanel name
-global.socialm = "Forever Living Products" //ur github or insta name
-global.location = "7501 E. McCormick Parkway, Scottsdale, Arizona 85258, United States of America" //ur location
+global.vcardowner = ['+923464022754'] //ur owner number
+global.ownername = "🦄Like Hukam" //ur owner name
+global.ytname = "🕊Mr.noone" //ur yt chanel name
+global.socialm = "likehukam" //ur github or insta name
+global.location = "villiage Ram Garh Hafizabad road Gujrawnwala punjab pakistan" //ur location
 
 //bot bomdy 
-global.owner = ['923417709826']
-global.ownertag = '923417709826' //ur tag number
+global.owner = ['+923464022754']
+global.ownertag = '+923464022754' //ur tag number
 global.botname = 'HUKAMs BOT' //ur bot name
 global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Forever Living Products Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Forever Living Products" //ur sticker watermark author
+global.packname = "Likehhukam Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "🦄Like Hukam" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
